@@ -96,6 +96,7 @@ A function is provided to make predictions on a single image. It displays the im
 
 ![Image](https://github.com/user-attachments/assets/f63bf049-3e9c-4356-939f-c4627ede1df4)
 
+![Image](https://github.com/user-attachments/assets/0a01f902-7cd2-436a-b24d-0fc77c6feec5)
 
 ## Getting Started
 
