@@ -19,7 +19,8 @@ This project implements an animal image classification model using transfer lear
 The project focuses on building and training a deep learning model to identify 15 different animal species. It utilizes transfer learning with pre-trained models (MobileNetV2, VGG16, or ResNet50) to leverage their learned features and achieve better performance with a smaller dataset and less training time. The entire workflow is designed to run seamlessly in Google Colab.
 
 ## Dataset
-
+Below is the link for the dataset which is used in this project.
+https://drive.google.com/file/d/1wPyI-x_cqGrz3x2ecR7OdS1aTow2DdBG/view?usp=drive_link
 The dataset used for training and validation contains images of the following animal classes:
 - Bear
 - Bird
