@@ -76,7 +76,7 @@ These plots show the training and validation accuracy and loss over epochs, help
 The confusion matrix provides a detailed breakdown of the model's predictions, showing true positives, true negatives, false positives, and false negatives for each class.
 
 ![Image](https://github.com/user-attachments/assets/5aa061e8-c6e5-4e59-aec8-5e0ec19026b9)
-*Example: Replace with a screenshot from your Colab notebook*
+
 
 ## Evaluation
 
@@ -94,7 +94,7 @@ A function is provided to make predictions on a single image. It displays the im
 ### Sample Prediction Output
 
 ![Image](https://github.com/user-attachments/assets/f63bf049-3e9c-4356-939f-c4627ede1df4)
-*Example: Replace with a screenshot from your Colab notebook*
+
 
 ## Getting Started
 
@@ -121,5 +121,5 @@ The project requires the following libraries:
 These dependencies are typically pre-installed in Google Colab.
 
 ## License
+All rights are reserved by me.
 
-[Specify your project's license here]
