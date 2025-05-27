@@ -68,14 +68,14 @@ The project includes visualizations to track the training progress and evaluate 
 
 These plots show the training and validation accuracy and loss over epochs, helping to identify overfitting or underfitting.
 
-![Accuracy and Loss Plot](![Image](https://github.com/user-attachments/assets/c8383b80-a0ce-41a8-a0ab-70086172037e))
-*Example: Replace with a screenshot from your Colab notebook*
+![Image](https://github.com/user-attachments/assets/c8383b80-a0ce-41a8-a0ab-70086172037e)
+
 
 ### Confusion Matrix
 
 The confusion matrix provides a detailed breakdown of the model's predictions, showing true positives, true negatives, false positives, and false negatives for each class.
 
-![Confusion Matrix](![Image](https://github.com/user-attachments/assets/5aa061e8-c6e5-4e59-aec8-5e0ec19026b9))
+![Image](https://github.com/user-attachments/assets/5aa061e8-c6e5-4e59-aec8-5e0ec19026b9)
 *Example: Replace with a screenshot from your Colab notebook*
 
 ## Evaluation
@@ -93,7 +93,7 @@ A function is provided to make predictions on a single image. It displays the im
 
 ### Sample Prediction Output
 
-![Sample Prediction](![Image](https://github.com/user-attachments/assets/f63bf049-3e9c-4356-939f-c4627ede1df4))
+![Image](https://github.com/user-attachments/assets/f63bf049-3e9c-4356-939f-c4627ede1df4)
 *Example: Replace with a screenshot from your Colab notebook*
 
 ## Getting Started
